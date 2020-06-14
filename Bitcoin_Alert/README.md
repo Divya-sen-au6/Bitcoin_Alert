@@ -1,5 +1,5 @@
 
-# Bitcoin-Alert-Based-on-Python
+# Bitcoin-Alert-App-Based-on-Python
 
 Bitcoin telegram notification using IFTTT services
 Bitcoin Price Notifications
