@@ -14,8 +14,8 @@ However, there are issues with bitcoins such as hackers breaking into accounts, 
 
 
 What is IFTTT?
-If This Then That, also known as IFTTT is a freeware web-based service that creates chains of simple conditional statements, called applets.
-An applet is triggered by changes that occur within other web services such as Gmail, Facebook, Telegram, Instagram, or Pinterest.
+   If This Then That, also known as IFTTT is a freeware web-based service that creates chains of simple conditional statements, called applets.
+   An applet is triggered by changes that occur within other web services such as Gmail, Facebook, Telegram, Instagram, or Pinterest.
 
 What is Telegram?
 Telegram is a cloud-based instant messaging and voice over IP service. Telegram client apps are available for Android, iOS, Windows Phone, Windows NT, macOS and Linux. Users can send messages and exchange photos, videos, stickers, audio and files of any type.
@@ -25,21 +25,24 @@ The client-server communication is also encrypted. The service provides end-to-e
 
 
 Project Overview:
-•	This Project will send notification of bitcoin latest price for every one hour.
-•	The notifications will be sent to telegram channel 
-        “Divyaz_Bitcoin_Alert”.
-•	The channel is global and anyone can access the channel and get regular updates of bitcoin prices. 
+
+	This Project will send notification of bitcoin latest price for every one hour.
+	The notifications will be sent to telegram channel “Divyaz_Bitcoin_Alert”.
+	The channel is global and anyone can access the channel and get regular updates of bitcoin prices. 
 
 
 Features: 
-•	Anyone with the link can join and chat along the channel.
-•	This Project is alive forever.
+
+	Anyone with the link can join and chat along the channel.
+	This Project is alive forever.
 
 
 
 Working Procedure:
+
 •	The project runs in ‘Python anywhere console’, which will keep the code run alive.
-•	The Project is Divided into Four Modules:
+	The Project is Divided into Four Modules:
+
 	Get data Module
 	Format Date Module
 	Send Data to IFTTT
@@ -50,6 +53,7 @@ Working Procedure:
 	Main – Here it will ask for the server maintainer to enter the country code.
 
 •	IFTTT Applets:
+
 	Webhooks and Telegram services are used here. 
 	When an event is occurred in the webhooks it will send the event value to telegram.
  
