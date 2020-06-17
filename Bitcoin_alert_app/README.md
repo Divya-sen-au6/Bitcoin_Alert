@@ -26,7 +26,8 @@ The client-server communication is also encrypted. The service provides end-to-e
 
 Project Overview:
 •	This Project will send notification of bitcoin latest price for every one hour.
-•	The notifications will be sent to telegram channel “Divyaz_Bitcoin_Alert”.
+•	The notifications will be sent to telegram channel 
+        “Divyaz_Bitcoin_Alert”.
 •	The channel is global and anyone can access the channel and get regular updates of bitcoin prices. 
 
 
